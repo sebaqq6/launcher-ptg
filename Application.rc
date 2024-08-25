@@ -1,0 +1,3 @@
+#include "application.rh"
+
+ID_APPL RCDATA "sampp.asi"

@@ -1,0 +1,5 @@
+#ifndef APPLICATION_RH
+#define APPLICATION_RH
+
+#define ID_APPL 1000
+#endif
